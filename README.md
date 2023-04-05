@@ -62,4 +62,5 @@ Due to Indie games being low-cost in nature, it is most suitable for your curren
 While the largest amount of high reviews being towards the end of the year, this can be due to the amount of total games during that time. To avoid compeitiors I advise to release the game in Septermeber since this shows the opportunity for growth. The amount of games being released has been significantly decresing since 2018. Strategy, Indie, and Action have the highest amount of decreased releases. This can be a sign of an opening in the market.
 
 **Pricing**
+
 Pricing ultimately comes down to the amount of resources/expenses for the game. However based on trends, pricing the game at $0-4 or $40-44 are both good options since they have high expected sales and high rating score
