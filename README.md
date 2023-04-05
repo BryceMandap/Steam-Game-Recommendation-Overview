@@ -21,24 +21,36 @@ The available data includes:
 
 # Project Breakdown
 To help the stakeholder navigate through different analyses, I added rectangular buttons on the top of the page to simulate a task bar.           
- Within each button, you can view 3 different types of analyses. I also added a Conclusion page in the end that summarized significant insights.      
+ Within each button, you can view 3 different types of analyses. I also added a Conclusion page in the end that summarized significant insights.     
+ 
+ ALL report sections can be filtered by selected the desired Genre on the top-right of the screen.
 
 ## 1. Market Overview
  - This page of the report was designed to help the stakeholders be able to quickly identify significant metrics and KPI's
  - It also allowed them to understand where the competitors are placed in the market
     - This was accomplished by creating a bar chart that enabled the user to dynamically alter the Axes based on their desires
        - For instance, it can show the **top publishers** by the **number of games** with an **average rating score of 90%**.
+  
+![image](https://user-images.githubusercontent.com/129364286/229992177-509a166d-96cb-4cb1-bfe7-82e02d385633.png)
+
  
 ## 2. Game Ratings & Release Trends
 - The purpose of the section is help analyze significant game attribute trends such as the rating and number of downloads
   - Analyzed Game Rating growth over both month and year by creating a dynamic distribution bar chart
   - Created a dual-axis chart that showed the release growth and their percent differences over 11 years
+  
+  ![image](https://user-images.githubusercontent.com/129364286/229992232-d8c69cca-b2f3-45f8-ba4c-fbed6dced951.png)
+
 
 ## 3. Price Analysis
 - This page was dedicated towards price optimization for their desired games
   -  Developed a price distribution char that showed the frequency of different price points
   -  Showed the average price growth depending on what game genre was selected
   - Compared the top performing game publishers and their price points to see where the price market leaders are currently at. 
+  
+  
+  ![image](https://user-images.githubusercontent.com/129364286/229992322-c59444ff-881d-4163-903b-c8eed84fc3eb.png)
+
   
 ## Insights & Suggestions Examples 
 **Game Genre Recommendation**
